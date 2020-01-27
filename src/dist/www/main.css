@@ -1,0 +1,24 @@
+body {
+  background: #0d0d0d;
+  color: white;
+  font-family: "Avenir Next", "Avenir", "Futura", "Verdana", "Roboto", sans-serif;
+  font-size: 3em;
+  height: 100%;
+  line-height: 1;
+  margin: 0;
+  padding: 3em;
+  text-align: center;
+}
+
+h1 {
+  color: #C6538C;
+  display: block;
+  margin: 0;
+}
+
+h3 {
+  display: block;
+  font-size: 1em;
+  font-weight: 300;
+  line-height: 1;
+}
